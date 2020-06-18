@@ -1,0 +1,16 @@
+# GET BOOKS
+# query {
+# 	books {
+#   id
+# 	title
+#   author
+# 	}
+# }
+
+# ADD BOOK
+# mutation {
+#   addBook(title: "Fox in Socks", author: "Dr Seuss") {
+#     title,
+#     author
+#   }
+# }
